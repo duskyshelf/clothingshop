@@ -27,7 +27,6 @@ All commands assume you are running this from terminal.
 6. Visit: [http://localhost:8080/ ](http://localhost:8080/ )  
 
 
-
 #### Comments about build
 
 Clothing shop was built as an AngularJS single page application as I felt this was a simple setup that could meet all the features in the user stories.
@@ -56,6 +55,11 @@ I store the voucher codes within a function which stores the codes, validations 
                          "message": "£15 Discount Applied"}
           };
         };
+
+#### Improvements
+
+My styling is relatively simple, and whilst functional could be improved.
+Adding a notification when a product is out of stock would have improved the UX.
 
 ### Testing
 
